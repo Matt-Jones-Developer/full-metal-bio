@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.71307mm"
+   height="46.495804mm"
+   viewBox="0 0 174.71306 46.495803"
+   version="1.1"
+   id="svg3169"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="name-title.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3171"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6566019"
+     inkscape:cx="253.70756"
+     inkscape:cy="39.147755"
+     inkscape:window-width="1314"
+     inkscape:window-height="708"
+     inkscape:window-x="105"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3166">
+    <rect
+       x="-109.21039"
+       y="154.49275"
+       width="759.14539"
+       height="127.85607"
+       id="rect6574" />
+    <rect
+       x="3.030118"
+       y="263.62027"
+       width="734.92383"
+       height="162.73972"
+       id="rect3292" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.26751303,-74.534026)">
+    <g
+       id="g440"
+       inkscape:export-filename="name-tag.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text3290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'The Battle Continuez';-inkscape-font-specification:'The Battle Continuez, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.83px;white-space:pre;shape-inside:url(#rect3292);display:inline;fill:#ffffff;stroke-width:26.8346"><tspan
+           x="3.0292969"
+           y="383.72138"
+           id="tspan504"><tspan
+             style="font-size:133.333px;font-family:'vtks Rude Metal shadow';-inkscape-font-specification:'vtks Rude Metal shadow, Normal';fill:#333333"
+             id="tspan502">Matt Jones</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.22458221,0,0,0.14112195,51.614378,83.295303)"
+         id="text6572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'The Battle Continuez';-inkscape-font-specification:'The Battle Continuez, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6574);display:inline;fill:#74fbb5;fill-opacity:1;stroke-width:26.8346"
+         inkscape:export-filename="name-tag.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="-109.21094"
+           y="250.57296"
+           id="tspan508"><tspan
+             style="font-size:87.1905px"
+             id="tspan506">Web Developer</tspan></tspan></text>
+      <rect
+         style="fill:#ffffff;stroke-width:6.98718"
+         id="rect293"
+         width="3.7021682"
+         height="0.75395149"
+         x="59.467606"
+         y="80.000778" />
+      <rect
+         style="fill:#ffffff;stroke-width:7.03075"
+         id="rect404"
+         width="1.5101069"
+         height="0.42589337"
+         x="61.567165"
+         y="80.377754" />
+      <rect
+         style="fill:#ffffff;stroke-width:6.98699"
+         id="rect406"
+         width="3.5726655"
+         height="0.76438427"
+         x="59.407593"
+         y="85.708992" />
+    </g>
+  </g>
+</svg>
