@@ -229,7 +229,7 @@ a {
 }
 
 a:hover {
-    color: #BC312D;
+    color: rgb(90, 0, 128);
 }
 
 hr {
@@ -243,7 +243,7 @@ span {
 }
 
 span:hover {
-    color: #BC312D;
+    color: purple;
     cursor: pointer;
 }
 
@@ -311,7 +311,7 @@ article {
 }
 
 .navbar a:hover {
-    color: #BC312D;
+    color: purple;
 }
 
 .navbar ul {
@@ -498,7 +498,7 @@ main {
 
 .pre-footer {
     position: relative;
-    top: 4rem;
+    top: 6rem;
     height: 680px;
     z-index: 333;
 }
@@ -550,7 +550,7 @@ main {
 
 .pre-footer-circle {
     position: absolute;
-    background-color: #951619;
+    background-color: #201036;
     border-radius: 50%;
     padding-top: 2rem;
     rotate: 20deg;
